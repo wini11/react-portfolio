@@ -8,7 +8,7 @@ const Skills = () => {
 
   return (
     <section id='skills' className='container mx-auto py-20 sm:py-28 md:py-36 lg:py-40 2xl:py-48 flex flex-col'>
-      <h1 className='text-2xl font-bold text-center md:text-3xl lg:text-4xl 2xl:text-3xl'  data-aos="fade-up" data-aos-easing='ease-in-out' data-aos-once='true' data-aos-duration='1000'>My Programming Skills</h1>
+      <h1 className='text-2xl font-bold text-center md:text-3xl lg:text-4xl 2xl:text-3xl'  data-aos="fade-up" data-aos-easing='ease-in-out' data-aos-once='true' data-aos-duration='1000'>Mis Habilidades de programación </h1>
       <ul className='w-11/12 mx-auto text-center my-10 flex justify-evenly items-center 2xl:py-7' data-aos="fade-up" data-aos-easing='ease-in-out' data-aos-once='true' data-aos-duration='1000'>
         <li className={`${frontActive ? 'bg-slate-800' : ''} skill-menu`} onClick={() => {
           setFrontActive(active => active = true)

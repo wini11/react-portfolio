@@ -3,10 +3,10 @@ import React from 'react'
 const Navigations = () => {
   return (
     <ul className='hidden justify-around items-center sm:flex'>
-        <li><a href="#home" className='nav-menu'>Home</a></li>
-        <li><a href="#about" className='nav-menu'>About</a></li>
-        <li><a href="#skills" className='nav-menu'>Skills</a></li>
-        <li><a href="#contact" className='nav-menu'>Contact</a></li>
+        <li><a href="#home" className='nav-menu'>Inicio</a></li>
+        <li><a href="#about" className='nav-menu'>Sobre Mi</a></li>
+        <li><a href="#skills" className='nav-menu'>Habilidades</a></li>
+        <li><a href="#contact" className='nav-menu'>Contacto</a></li>
     </ul>
   )
 }

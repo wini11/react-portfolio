@@ -34,7 +34,7 @@ const FrontSkills = () => {
         <img src={Bootstrap} alt="" className='w-10 2xl:w-16'/>
         <div className='text-center font-montserrat'>
             <h1 className='text-lg font-semibold 2xl:text-2xl'>Bootstrap</h1>
-            <p className='text-base font-medium 2xl:text-xl'>Intermediate</p>
+            <p className='text-base font-medium 2xl:text-xl'>Beginner</p>
         </div>
     </div>
     <div className='skill-card'  data-aos="fade-up" data-aos-easing='ease-in-out' data-aos-once='true' data-aos-duration='1000'>
@@ -48,7 +48,7 @@ const FrontSkills = () => {
         <img src={Reactjs} alt="" className='w-8 sm:w-10 2xl:w-16'/>
         <div className='text-center font-montserrat'>
             <h1 className='text-lg font-semibold 2xl:text-2xl'>React.js</h1>
-            <p className='text-base font-medium 2xl:text-xl'>Beginner</p>
+            <p className='text-base font-medium 2xl:text-xl'>Intermediate</p>
         </div>
     </div>
     </>
