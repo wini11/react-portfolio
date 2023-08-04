@@ -2,7 +2,7 @@ import React from 'react'
 
 const Facebook = () => {
   return (
-    <a href="https://m.facebook.com/profile.php?id=100056986006962">
+    <a href="https://www.facebook.com/alejandro.xaviergoncalves">
 		<svg
 			fill="currentCollor"
 			className="mx-2 inline w-8 mt-3 fill-black dark:fill-white lg:w-9 2xl:w-11 2xl:text-left"

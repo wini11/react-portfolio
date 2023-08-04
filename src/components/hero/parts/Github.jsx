@@ -3,7 +3,7 @@ import React from 'react'
 const Github = () => {
   return (
     <a
-		href="https://github.com/ItsAndhika"
+		href="https://github.com/wini11"
 		><svg
 			xmlns="http://www.w3.org/2000/svg"
 			fill="none"
